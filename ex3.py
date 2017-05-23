@@ -25,3 +25,4 @@ print ("Is it less or equal?", 5 <= -2)
 ##Account time for coding per week 
 print ("Hours for learning per week: ", (24*7)-(7*7)-(7*3)-(7*7))
 
+print ("Hours for learning per week(float number): ", float((24*7)-(7*7)-(7*3)-(7*7)))
