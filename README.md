@@ -7,3 +7,4 @@
 
 ## Daily Progress:
 ### 5.22.2017 Exercise 1 - A Good First Program
+### Commetns and Pound Characters
