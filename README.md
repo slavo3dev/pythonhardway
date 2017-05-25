@@ -10,3 +10,6 @@
 ### Exercise 1 - A Good First Program
 ### Exercise 2: Comments and Pound Characters
 ### Exercise 3: Numbers and Math
+### Exercise 4: Variables And Names
+
+
