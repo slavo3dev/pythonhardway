@@ -11,7 +11,7 @@ cars_not_driven = cars - drivers
 # How many cars are driven
 cars_driven = drivers
 # Capacity of the car 
-carpool_capacity = cars_driven * space_in_a_car
+carpool_capacity = float(cars_driven * space_in_a_car)
 #average passenger per car 
 average_passengers_per_car = passengers / cars_driven
 
