@@ -8,7 +8,7 @@ my_teeth = 'White'
 my_hair = 'Bold'
 
 print ("Let's talk about %s." % my_name)
-print ("He's %d cm or %d m tall." % my_height, my_height / one_meter)
+print ("He's %d cm or %d m tall." % (my_height, float(my_height / 100))
 print ("He's %d pounds heavy." % my_weight)
 print ("Actually that's not too heavy.")
 print ("He's got %s eyes and %s hair." % (my_eyes, my_hair))
