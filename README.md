@@ -12,5 +12,9 @@
 ### Exercise 3: Numbers and Math
 ### 5/24/2017
 ### Exercise 4: Variables And Names
+### 5/25/2017
+### Exercise 5: More Variables and Printing
+
+
 
 
