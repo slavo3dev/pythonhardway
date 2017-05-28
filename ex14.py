@@ -11,7 +11,7 @@ likes = input(prompt)
 print ("Where do you live %s?" % user_name)
 lives = input(prompt)
 
-print "What kind of computer do you have?"
+print ("What kind of computer do you have?")
 computer = input(prompt)
 
 print ("""
