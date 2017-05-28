@@ -1,6 +1,7 @@
 from sys import argv
 
-script, user_name = argv
+script = argv
+user_name = argv[1]
 prompt = '> '
 
 print ("Hi %s, I'm the %s script." % (user_name, script))
