@@ -18,4 +18,5 @@
 ### Exercise 6: Strings and Text
 ### Exercise 7: More Printing
 ### Exercise 8: Printing, Printing
+### Exercise 9: Printing, Printing, Printing
 
