@@ -16,6 +16,6 @@
 ### Exercise 5: More Variables and Printing
 ### 5/28/2017
 ### Exercise 6: Strings and Text
-
+### Exercise 7: More Printing
 
 
