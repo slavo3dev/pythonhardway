@@ -16,7 +16,7 @@ print ("I will ask you few questions.")
 #full_name = input('Please add your First & Last Name? ')
 dob  = input('Add your date of birt? ')
 age  = input('Please add your current age? ')
-city = str(input('Where are you born, please add city? '))
+city = input('Where are you born, please add city? ')
 
 print ("All your info will be saved in file: ", file_name)
 
