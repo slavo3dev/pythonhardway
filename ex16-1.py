@@ -20,7 +20,7 @@ city = input('Where are you born, please add city? ')
 
 print ("All your info will be saved in file: ", file_name)
 
-file.write(full_name, dob, age, city)
+file.write(full_name + dob + age + city)
 #file.write(dob)
 #file.write(age)
 #file.write(city)
