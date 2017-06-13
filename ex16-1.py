@@ -9,7 +9,7 @@ print('***************** Opening the file ***********************************')
 
 file = open(file_name, 'w')
 
-print "Truncating the file.  Goodbye!"
+print ("Truncating the file.  Goodbye!")
 file.truncate()
 print ("I will ask you few questions.")
 
