@@ -28,5 +28,5 @@ file.write(full_name + '\n' + dob + '\n' + age + '\n' + city)
 print("Plase check your ", file_name)
 file.close()
 
-print ('Happy 4th of july');
+print ('Happy 4th of july')
 
